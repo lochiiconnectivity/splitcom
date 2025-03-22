@@ -11,7 +11,7 @@ SPLITCOM is a command-line tool that processes GEDCOM (GEnealogical Data COMmuni
 - Privacy protection when sharing family tree data
 - Creating subset genealogy files for specific branches
 - Removing erroneous genealogical connections
-- Preparing GEDCOM files for specialized analysis
+- Preparing GEDCOM files for specialised analysis
 
 ## Installation
 
